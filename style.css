@@ -1,0 +1,106 @@
+		@import url(https://db.onlinewebfonts.com/c/09850c3d018f2cb9cc4391a7e1e788bd?family=Oranienbaum);
+		@font-face {
+			font-family: "Oranienbaum";
+			src: url("https://db.onlinewebfonts.com/t/09850c3d018f2cb9cc4391a7e1e788bd.eot");
+			src: url("https://db.onlinewebfonts.com/t/09850c3d018f2cb9cc4391a7e1e788bd.eot?#iefix")format("embedded-opentype"),
+			url("https://db.onlinewebfonts.com/t/09850c3d018f2cb9cc4391a7e1e788bd.woff2")format("woff2"),
+			url("https://db.onlinewebfonts.com/t/09850c3d018f2cb9cc4391a7e1e788bd.woff")format("woff"),
+			url("https://db.onlinewebfonts.com/t/09850c3d018f2cb9cc4391a7e1e788bd.ttf")format("truetype"),
+			url("https://db.onlinewebfonts.com/t/09850c3d018f2cb9cc4391a7e1e788bd.svg#Oranienbaum")format("svg");
+				}
+		body{
+			margin: 20px;
+			justify-content:center;
+			background-image: linear-gradient(to right, #9BB8ED , #FFDDE4, #DEB3E0);
+		}
+		.bg-gradiant{
+			height:100vh;
+			width: 100%;
+			background-image: linear-gradiant(lightblue,pink)
+		}
+
+		h1{
+			display:inline-block;
+			text-align:center;
+			background-color: #FEC6DF;
+			font-family: Oranienbaum;
+			font-style: italic;
+			color:black;
+			font-weight:bold;
+			border: 2px solid grey;
+			padding: 10px 15px 10px 15px;
+			margin-top: 3px;
+			margin-bottom:10px;
+			border-radius:5px;
+		}
+		.search-txt{
+			float:right;
+			padding:10px;
+			font-size: 24px;
+			border:2px solid black;
+			border-radius: 5px;
+		}
+		.fa-house{
+			font-size:30px;
+			color: black;
+			margin-right:20px;
+		}
+		.fa-bars{
+			font-size:30px;
+			color: black;
+			margin-right:20px;
+		}
+		.fa-magnifying-glass{
+			font-size:30px;
+			color: black;
+			margin-right:20px;
+			margin-left:800px;
+		}
+		#socials{
+			margin: 5px 10px 5px 10px;
+		}
+		.fa-spotify{
+			font-size:45px;
+			color: white;
+			padding-right:5px;
+		}
+		.fa-instagram{
+			font-size:45px;
+			color: white;
+			padding-right:5px;
+		}
+		.fa-twitter{
+			font-size:45px;
+			color: white;
+			padding-right:5px;
+		}
+		.fa-youtube{
+			font-size:45px;
+			color: white;
+			padding-right:5px;
+		}
+		.fa-facebook{
+			font-size:45px;
+			color: white;
+			padding-right:5px;
+		}
+		#main{
+			text-align:center;
+			float:center;
+			display:inline-block;
+			font-family: Arial;
+			background-color: #A39FE1;
+			margin: 20px 100px;
+			padding:20px 20px 10px 20px;
+			border-radius:25px;
+		}
+		#members{
+			justify-content:center;
+			text-align:center;
+			padding: 20px 15px 20px 15px;
+			margin-left:130px;
+			margin-right:130px;
+			background-color:#FEECD6	;
+			border-radius: 25px;
+		}
+	
